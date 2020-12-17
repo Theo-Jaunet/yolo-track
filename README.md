@@ -1,4 +1,4 @@
-This code is a fork of https://github.com/eriklindernoren/PyTorch-YOLOv3. Here, this repo is modified to incorporate tracking of detected elements and output an OD-data format CSV.
+This code is a fork of https://github.com/eriklindernoren/PyTorch-YOLOv3. Here, this repo is modified to incorporate tracking of detected elements and output an OD-data formatted CSV.
 
 ## Installation
 Clone this repo, and install the requierements (you may want to use a virtual pip env for that). 
